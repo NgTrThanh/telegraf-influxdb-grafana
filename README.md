@@ -1,5 +1,5 @@
 # TIG Stack
 
-* Telegraf 1.3.3
-* Influxdb 1.0.2
-* Grafana 4.3.2
+* Telegraf 1.16.0
+* Influxdb 1.8.3
+* Grafana 6.6
